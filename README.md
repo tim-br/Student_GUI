@@ -1,4 +1,4 @@
 Student_GUI
 ===========
 
-A small GUI to organize students. I did this for a class. I wrote this in java using javafx.
+A small GUI to organize a group of students. This is written in Java 8 with JavaFX.
